@@ -1,0 +1,64 @@
+{
+	"id": "8d8c9d84-1980-469b-ab6b-296120a22d82",
+	"name": "CustomerEnv",
+	"values": [
+		{
+			"key": "token",
+			"value": "",
+			"enabled": true
+		},
+                {	"key": "url",
+			"value": "https://customer-test-api.herokuapp.com",
+			"enabled": true
+
+   		},	
+		{
+			"key": "id",
+			"value": "",
+			"enabled": false
+		},
+		{
+			"key": "name",
+			"value": "",
+			"enabled": false
+		},
+		{
+			"key": "email",
+			"value": "",
+			"enabled": false
+		},
+		{
+			"key": "phone_number",
+			"value": "",
+			"enabled": false
+		},
+		{
+			"key": "id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "phone_number",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "address",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-10-04T08:43:41.963Z",
+	"_postman_exported_using": "Postman/9.0.5"
+}
